@@ -1,6 +1,7 @@
 Step 1: Order Pizza
+    1a: whoever is offering the best deal!
 Step 2: Pick up pizza Slice
 Step 3: Put pizza slice on plate
 step 4: Find spot to sit
-    4a: fight over best spot to view TV
+    4a: Fight over the best spot
 Step 5: Eat the Pizza
